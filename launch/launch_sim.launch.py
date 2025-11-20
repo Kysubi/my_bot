@@ -70,7 +70,7 @@ def generate_launch_description():
 
 
 
-    # Launch
+    # Launch them all!
     return LaunchDescription([
         rsp,
         gazebo,
